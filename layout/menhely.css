@@ -1,0 +1,7 @@
+.navbar-nav .nav-link.active {
+    background-color: black;
+    color: yellow;
+}
+.error{
+    color: #FF0000;
+}
